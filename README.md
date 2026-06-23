@@ -1,16 +1,17 @@
-## Hi there 👋
+# Olá, eu sou o Alexandre 👋
 
-<!--
-**xandrecodev/xandrecodev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Sistemas de Informação com foco na área de dados e automações. Dedico-me ao desenvolvimento de soluções inteligentes e eficientes, aplicando lógica de programação estruturada, manipulação de bancos de dados e a automação de processos para otimizar fluxos de trabalho.
 
-Here are some ideas to get you started:
+## 🛠️ Tecnologias e Ferramentas 🛠️
+- **Linguagens:** Python, SQL, C
+- **Sistemas e Infraestrutura:** Linux, Git, Docker
+- **Conceitos-Chave:** Lógica de Programação, Estruturas de Dados, Bancos de Dados Relacionais e Automação de Tarefas
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Objetivos Próximos e Foco de Estudo 📚
+- Desenvolvimento de scripts e ferramentas de automação com Python.
+- Criação de pipelines para extração, limpeza e manipulação de dados usando SQL e Python.
+- Aplicação de conceitos acadêmicos em projetos práticos focados em eficiência de processos.
+
+## 📫 Conecte-se comigo 📫
+- **LinkedIn:** [alexandre-guersoni](https://www.linkedin.com/in/alexandre-guersoni)
+- **E-mail:** alexandreguersoni@gmail.com
